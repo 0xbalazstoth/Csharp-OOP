@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace Csharp_OOP_Learning
+namespace Assembly2
 {
     class Program
     {
         static void Main(string[] args)
         {
-            
+            Console.WriteLine("Hello World!");
         }
     }
 }
