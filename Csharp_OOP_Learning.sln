@@ -51,15 +51,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CallingAConstructorFromACon
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Challenge 3 Analyzing the Performance of Students", "Challenge 3 Analyzing the Performance of Students", "{56A54A46-48DC-4F3A-BFBA-6914ACCBE6DF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnalyzingThePerformanceOfStudents", "AnalyzingThePerformanceOfStudents\AnalyzingThePerformanceOfStudents.csproj", "{46831665-C2E5-4E4E-A0AD-4EC0C20F330B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnalyzingThePerformanceOfStudents", "AnalyzingThePerformanceOfStudents\AnalyzingThePerformanceOfStudents.csproj", "{46831665-C2E5-4E4E-A0AD-4EC0C20F330B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Challenge 4 Implement a Calculator Class", "Challenge 4 Implement a Calculator Class", "{0E2D91EA-D57D-443E-9CFE-80D3D277393A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Calculator.csproj", "{0953D411-D3A7-45E2-8953-927B54AAEE62}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calculator", "Calculator\Calculator.csproj", "{0953D411-D3A7-45E2-8953-927B54AAEE62}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data hiding", "Data hiding", "{B9A1DF17-7EE8-464A-B06D-F82810C44954}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encapsulation", "Encapsulation\Encapsulation.csproj", "{D7581AAA-61E5-4A00-BBBD-A7CFB597FDDF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Encapsulation", "Encapsulation\Encapsulation.csproj", "{D7581AAA-61E5-4A00-BBBD-A7CFB597FDDF}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Accessing the Class Members", "Accessing the Class Members", "{04FB55FE-3F37-47E0-A562-4649B4068ACC}"
 EndProject
@@ -69,78 +69,112 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Challenge 1 Implement the R
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Encapsulation", "Encapsulation", "{4430120E-FA6B-4C8C-958D-45D74C033F7A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rectangle", "Rectangle\Rectangle.csproj", "{50545302-5457-44F0-BFEB-E759F6B77522}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rectangle", "Rectangle\Rectangle.csproj", "{50545302-5457-44F0-BFEB-E759F6B77522}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Challenge 2 Implement the Complete Student Class", "Challenge 2 Implement the Complete Student Class", "{DC404E18-4C31-45F8-9C6A-5263DC748300}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Student", "Student\Student.csproj", "{D357F693-A1B3-4519-B263-DAD14A2D5EBE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Student", "Student\Student.csproj", "{D357F693-A1B3-4519-B263-DAD14A2D5EBE}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Inheritance", "Inheritance", "{DD46EB01-1B18-4F3B-8993-CFBF8C368658}"
 	ProjectSection(SolutionItems) = preProject
 		Terminologies.md = Terminologies.md
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{A2B9333F-28C7-448B-BD74-833860251C51}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inheritance", "Inheritance\Inheritance.csproj", "{A2B9333F-28C7-448B-BD74-833860251C51}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Access Modifiers", "Access Modifiers", "{73E88399-D699-4CE4-BF3F-ECF61B067910}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Protected", "Protected\Protected.csproj", "{C5817624-42B8-42BC-B702-2B93D902A416}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Protected", "Protected\Protected.csproj", "{C5817624-42B8-42BC-B702-2B93D902A416}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Internal", "Internal\Internal.csproj", "{F3CE4E9E-9608-4428-A6FD-B902455DDDAB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Internal", "Internal\Internal.csproj", "{F3CE4E9E-9608-4428-A6FD-B902455DDDAB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProtectedInternal", "ProtectedInternal\ProtectedInternal.csproj", "{2CBFF4A5-EACB-43A1-8F68-D8FF1115B5F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProtectedInternal", "ProtectedInternal\ProtectedInternal.csproj", "{2CBFF4A5-EACB-43A1-8F68-D8FF1115B5F9}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Protected Internal", "Protected Internal", "{DE13557D-402D-41E0-A88A-614EC1FE42DD}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Private Protected", "Private Protected", "{493D3A5C-35F3-45D3-A6EE-31896501F23B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrivateProtected", "PrivateProtected\PrivateProtected.csproj", "{4F442EC3-B527-461B-92A0-5DD52A241DA9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrivateProtected", "PrivateProtected\PrivateProtected.csproj", "{4F442EC3-B527-461B-92A0-5DD52A241DA9}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Base Keyword", "Base Keyword", "{95D8E035-ED3A-4875-952F-E39CFF12BEE0}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Accessing Base Class Fields", "Accessing Base Class Fields", "{2647375E-312D-4C1D-B139-2BBEB3F0D12D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessingBaseClassFields", "AccessingBaseClassFields\AccessingBaseClassFields.csproj", "{7482827B-B354-438F-8713-75D5F00D9558}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AccessingBaseClassFields", "AccessingBaseClassFields\AccessingBaseClassFields.csproj", "{7482827B-B354-438F-8713-75D5F00D9558}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallingABaseClassMethod", "CallingABaseClassMethod\CallingABaseClassMethod.csproj", "{784F8496-E2D5-401A-B2BB-D69E0BB7D14E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CallingABaseClassMethod", "CallingABaseClassMethod\CallingABaseClassMethod.csproj", "{784F8496-E2D5-401A-B2BB-D69E0BB7D14E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Calling a Base Class Method", "Calling a Base Class Method", "{B25F1B8F-A5D8-4254-BCC5-CE395DE36625}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Using with Constructors", "Using with Constructors", "{907F8DD9-9A3A-45F7-B94A-9C7233097367}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingWithConstructors", "UsingWithConstructors\UsingWithConstructors.csproj", "{2E7CAF61-89D5-4BD9-B17F-7F0987D56B63}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UsingWithConstructors", "UsingWithConstructors\UsingWithConstructors.csproj", "{2E7CAF61-89D5-4BD9-B17F-7F0987D56B63}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Types of Inheritance", "Types of Inheritance", "{7C29298E-3D91-430A-B869-4DC9994EB24A}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Single Inheritance", "Single Inheritance", "{AA9CF567-5DF3-496B-9CF4-D4B52AEB9FA5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleInheritance", "SingleInheritance\SingleInheritance.csproj", "{B6EAC078-5C11-4293-B476-32520817C1E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingleInheritance", "SingleInheritance\SingleInheritance.csproj", "{B6EAC078-5C11-4293-B476-32520817C1E3}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Multi-level Inheritance", "Multi-level Inheritance", "{534A3839-760B-4F47-8DED-BCDCEDE2F2D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiLevelInheritance", "MultiLevelInheritance\MultiLevelInheritance.csproj", "{6328F89E-E794-4B28-AF07-76A5D21A7BE6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultiLevelInheritance", "MultiLevelInheritance\MultiLevelInheritance.csproj", "{6328F89E-E794-4B28-AF07-76A5D21A7BE6}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Hierarchical Inheritance", "Hierarchical Inheritance", "{A39D6BB2-F928-4F18-8F5D-42352A14210F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HierarchiaInheritance", "HierarchiaInheritance\HierarchiaInheritance.csproj", "{51F4DC14-BF1B-428B-A7F9-5AB845F4FE32}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HierarchiaInheritance", "HierarchiaInheritance\HierarchiaInheritance.csproj", "{51F4DC14-BF1B-428B-A7F9-5AB845F4FE32}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Multiple Inheritance", "Multiple Inheritance", "{C8625686-EB90-43E6-BACD-418C2B8B90F8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultipleInheritance", "MultipleInheritance\MultipleInheritance.csproj", "{0E864304-95DD-40A0-B587-32C187DA021C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultipleInheritance", "MultipleInheritance\MultipleInheritance.csproj", "{0E864304-95DD-40A0-B587-32C187DA021C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Hybrid Inheritance", "Hybrid Inheritance", "{0AE8EFED-0EE0-47B3-924C-ECD90E6071B4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HybridInheritance", "HybridInheritance\HybridInheritance.csproj", "{964B7CE2-7CC3-4367-99E9-DBAEB0FAF102}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HybridInheritance", "HybridInheritance\HybridInheritance.csproj", "{964B7CE2-7CC3-4367-99E9-DBAEB0FAF102}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Challenges", "Challenges", "{C480566C-3EDB-4C00-BEA8-7D39F4B4730E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Challenge 1 Implement the Derived Class", "Challenge 1 Implement the Derived Class", "{18A41A95-9A91-40E9-AD7B-47B89715E305}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplementTheDerivedClass", "ImplementTheDerivedClass\ImplementTheDerivedClass.csproj", "{48B65401-A8F7-499F-99C0-762F4A83B4AC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImplementTheDerivedClass", "ImplementTheDerivedClass\ImplementTheDerivedClass.csproj", "{48B65401-A8F7-499F-99C0-762F4A83B4AC}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Challenge 2 Implement the Parametrized Constructor", "Challenge 2 Implement the Parametrized Constructor", "{83306FEF-6747-40D9-B475-35ABCD486BCF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplementTheParameterizedConstructor", "ImplementTheParameterizedConstructor\ImplementTheParameterizedConstructor.csproj", "{112974FD-9856-49DB-8C6D-D2C969343AA5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImplementTheParameterizedConstructor", "ImplementTheParameterizedConstructor\ImplementTheParameterizedConstructor.csproj", "{112974FD-9856-49DB-8C6D-D2C969343AA5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Polymorphism", "Polymorphism", "{6084CAFB-57CD-4A35-9E94-BD9B0205461C}"
+	ProjectSection(SolutionItems) = preProject
+		Definition.md = Definition.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Polymorphism using Inheritance", "Polymorphism using Inheritance", "{5A2D98AF-2A0B-4460-ACA3-FC95A8F8187F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PolymorphismUsingInheritance", "PolymorphismUsingInheritance\PolymorphismUsingInheritance.csproj", "{3F5B7B71-5BAE-4D13-A743-3CEC4BAE98F2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Method Overriding", "Method Overriding", "{D77EAED9-9A5E-403F-B700-9B10FCBEAEF2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MethodOverriding", "MethodOverriding\MethodOverriding.csproj", "{FAA004C8-2F2B-4546-8A3B-6536FDE437F0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Difference Between Overloading and Overriding", "Difference Between Overloading and Overriding", "{A991D8CE-CD3E-41C8-8ABD-24293FEA8DF5}"
+	ProjectSection(SolutionItems) = preProject
+		Compare.md = Compare.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Difference", "Difference\Difference.csproj", "{91E737DC-6A92-4B76-8EFC-1E3B664DFB60}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Challenges", "Challenges", "{7A122164-CE61-4660-9E3F-6EC7175DE703}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Challenge 1 Override a Method in the Derived Class", "Challenge 1 Override a Method in the Derived Class", "{B5127A09-89F4-471D-A5F4-78AA73B33937}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverridingAMethodInTheDerivedClass", "OverridingAMethodInTheDerivedClass\OverridingAMethodInTheDerivedClass.csproj", "{7E807794-309F-47E4-ABFF-B3F8518707A5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Challenge 2 Implement and Override a Method", "Challenge 2 Implement and Override a Method", "{3027FE3E-A1C7-4ABA-99FF-789130522DD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplementAndOverrideAMethod", "ImplementAndOverrideAMethod\ImplementAndOverrideAMethod.csproj", "{11031C2B-B818-4BCD-B67E-48752EE2D797}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Challenge 3 Implement a Banking Application Using Polymorphism", "Challenge 3 Implement a Banking Application Using Polymorphism", "{6A0E8082-AD03-4D27-BC2C-3B8E8BF087DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplementABankingApplicationUsingPolymorphism", "ImplementABankingApplicationUsingPolymorphism\ImplementABankingApplicationUsingPolymorphism.csproj", "{E5EF5275-78D8-44E4-833F-D209F62DB452}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -272,6 +306,30 @@ Global
 		{112974FD-9856-49DB-8C6D-D2C969343AA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{112974FD-9856-49DB-8C6D-D2C969343AA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{112974FD-9856-49DB-8C6D-D2C969343AA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F5B7B71-5BAE-4D13-A743-3CEC4BAE98F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F5B7B71-5BAE-4D13-A743-3CEC4BAE98F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F5B7B71-5BAE-4D13-A743-3CEC4BAE98F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F5B7B71-5BAE-4D13-A743-3CEC4BAE98F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAA004C8-2F2B-4546-8A3B-6536FDE437F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAA004C8-2F2B-4546-8A3B-6536FDE437F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAA004C8-2F2B-4546-8A3B-6536FDE437F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAA004C8-2F2B-4546-8A3B-6536FDE437F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91E737DC-6A92-4B76-8EFC-1E3B664DFB60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91E737DC-6A92-4B76-8EFC-1E3B664DFB60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91E737DC-6A92-4B76-8EFC-1E3B664DFB60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91E737DC-6A92-4B76-8EFC-1E3B664DFB60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E807794-309F-47E4-ABFF-B3F8518707A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E807794-309F-47E4-ABFF-B3F8518707A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E807794-309F-47E4-ABFF-B3F8518707A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E807794-309F-47E4-ABFF-B3F8518707A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11031C2B-B818-4BCD-B67E-48752EE2D797}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11031C2B-B818-4BCD-B67E-48752EE2D797}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11031C2B-B818-4BCD-B67E-48752EE2D797}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11031C2B-B818-4BCD-B67E-48752EE2D797}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5EF5275-78D8-44E4-833F-D209F62DB452}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5EF5275-78D8-44E4-833F-D209F62DB452}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5EF5275-78D8-44E4-833F-D209F62DB452}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5EF5275-78D8-44E4-833F-D209F62DB452}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -342,6 +400,19 @@ Global
 		{48B65401-A8F7-499F-99C0-762F4A83B4AC} = {18A41A95-9A91-40E9-AD7B-47B89715E305}
 		{83306FEF-6747-40D9-B475-35ABCD486BCF} = {C480566C-3EDB-4C00-BEA8-7D39F4B4730E}
 		{112974FD-9856-49DB-8C6D-D2C969343AA5} = {83306FEF-6747-40D9-B475-35ABCD486BCF}
+		{5A2D98AF-2A0B-4460-ACA3-FC95A8F8187F} = {6084CAFB-57CD-4A35-9E94-BD9B0205461C}
+		{3F5B7B71-5BAE-4D13-A743-3CEC4BAE98F2} = {5A2D98AF-2A0B-4460-ACA3-FC95A8F8187F}
+		{D77EAED9-9A5E-403F-B700-9B10FCBEAEF2} = {6084CAFB-57CD-4A35-9E94-BD9B0205461C}
+		{FAA004C8-2F2B-4546-8A3B-6536FDE437F0} = {D77EAED9-9A5E-403F-B700-9B10FCBEAEF2}
+		{A991D8CE-CD3E-41C8-8ABD-24293FEA8DF5} = {6084CAFB-57CD-4A35-9E94-BD9B0205461C}
+		{91E737DC-6A92-4B76-8EFC-1E3B664DFB60} = {A991D8CE-CD3E-41C8-8ABD-24293FEA8DF5}
+		{7A122164-CE61-4660-9E3F-6EC7175DE703} = {6084CAFB-57CD-4A35-9E94-BD9B0205461C}
+		{B5127A09-89F4-471D-A5F4-78AA73B33937} = {7A122164-CE61-4660-9E3F-6EC7175DE703}
+		{7E807794-309F-47E4-ABFF-B3F8518707A5} = {B5127A09-89F4-471D-A5F4-78AA73B33937}
+		{3027FE3E-A1C7-4ABA-99FF-789130522DD3} = {7A122164-CE61-4660-9E3F-6EC7175DE703}
+		{11031C2B-B818-4BCD-B67E-48752EE2D797} = {3027FE3E-A1C7-4ABA-99FF-789130522DD3}
+		{6A0E8082-AD03-4D27-BC2C-3B8E8BF087DD} = {7A122164-CE61-4660-9E3F-6EC7175DE703}
+		{E5EF5275-78D8-44E4-833F-D209F62DB452} = {6A0E8082-AD03-4D27-BC2C-3B8E8BF087DD}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C38620BA-DB0B-47DC-85DD-BF2BE4217978}

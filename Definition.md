@@ -1,0 +1,1 @@
+### In OOP, polymorphism refers to the same object exhibiting different forms and behaviors.
