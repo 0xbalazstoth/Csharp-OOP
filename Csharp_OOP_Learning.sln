@@ -160,21 +160,48 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Difference Between Overload
 		Compare.md = Compare.md
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Difference", "Difference\Difference.csproj", "{91E737DC-6A92-4B76-8EFC-1E3B664DFB60}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Difference", "Difference\Difference.csproj", "{91E737DC-6A92-4B76-8EFC-1E3B664DFB60}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Challenges", "Challenges", "{7A122164-CE61-4660-9E3F-6EC7175DE703}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Challenge 1 Override a Method in the Derived Class", "Challenge 1 Override a Method in the Derived Class", "{B5127A09-89F4-471D-A5F4-78AA73B33937}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverridingAMethodInTheDerivedClass", "OverridingAMethodInTheDerivedClass\OverridingAMethodInTheDerivedClass.csproj", "{7E807794-309F-47E4-ABFF-B3F8518707A5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OverridingAMethodInTheDerivedClass", "OverridingAMethodInTheDerivedClass\OverridingAMethodInTheDerivedClass.csproj", "{7E807794-309F-47E4-ABFF-B3F8518707A5}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Challenge 2 Implement and Override a Method", "Challenge 2 Implement and Override a Method", "{3027FE3E-A1C7-4ABA-99FF-789130522DD3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplementAndOverrideAMethod", "ImplementAndOverrideAMethod\ImplementAndOverrideAMethod.csproj", "{11031C2B-B818-4BCD-B67E-48752EE2D797}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImplementAndOverrideAMethod", "ImplementAndOverrideAMethod\ImplementAndOverrideAMethod.csproj", "{11031C2B-B818-4BCD-B67E-48752EE2D797}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Challenge 3 Implement a Banking Application Using Polymorphism", "Challenge 3 Implement a Banking Application Using Polymorphism", "{6A0E8082-AD03-4D27-BC2C-3B8E8BF087DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplementABankingApplicationUsingPolymorphism", "ImplementABankingApplicationUsingPolymorphism\ImplementABankingApplicationUsingPolymorphism.csproj", "{E5EF5275-78D8-44E4-833F-D209F62DB452}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImplementABankingApplicationUsingPolymorphism", "ImplementABankingApplicationUsingPolymorphism\ImplementABankingApplicationUsingPolymorphism.csproj", "{E5EF5275-78D8-44E4-833F-D209F62DB452}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Abstract Classes and Interfaces", "Abstract Classes and Interfaces", "{5C1A7F86-4998-4E05-BAD8-9BF09CCDC5CA}"
+	ProjectSection(SolutionItems) = preProject
+		interfaces_vs_abstractClasses.md = interfaces_vs_abstractClasses.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Abstraction", "Abstraction", "{5F730A18-E938-49AF-B7D2-9D323A14E391}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstraction", "Abstraction\Abstraction.csproj", "{A78347B6-8190-4232-9045-7335D25F9059}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Interfaces", "Interfaces", "{31F39797-DAEC-4CDF-B4BA-BED68A895BC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{D153DF6A-BFDC-4493-BC8F-A115C32584A4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Multiple Inheritance", "Multiple Inheritance", "{83904AF0-EAF5-4DFF-B57E-9F7D5D699C9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abs_MultipleInheritance", "Abs_MultipleInheritance\Abs_MultipleInheritance.csproj", "{4607B487-3B90-4B27-9409-DE9BD582667E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Challenges", "Challenges", "{1C8BAC2D-A38A-48F8-BE38-A940431F42CB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Challenge 1 Implement an Abstract Method in a Base Class", "Challenge 1 Implement an Abstract Method in a Base Class", "{BC246B78-AB81-4930-AA91-0CF3AA84922C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplementAnAbstractMethodInABaseClass", "ImplementAnAbstractMethodInABaseClass\ImplementAnAbstractMethodInABaseClass.csproj", "{2FCF031B-4184-4272-B897-AE20F0E5BF67}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Challenge 2 Implement an Interface", "Challenge 2 Implement an Interface", "{B29EF470-4583-45CC-940C-D5DC706D8C4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplementAnInterface", "ImplementAnInterface\ImplementAnInterface.csproj", "{56D0341A-0525-4382-9846-7D2A55855B71}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -330,6 +357,26 @@ Global
 		{E5EF5275-78D8-44E4-833F-D209F62DB452}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E5EF5275-78D8-44E4-833F-D209F62DB452}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E5EF5275-78D8-44E4-833F-D209F62DB452}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A78347B6-8190-4232-9045-7335D25F9059}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A78347B6-8190-4232-9045-7335D25F9059}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A78347B6-8190-4232-9045-7335D25F9059}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A78347B6-8190-4232-9045-7335D25F9059}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D153DF6A-BFDC-4493-BC8F-A115C32584A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D153DF6A-BFDC-4493-BC8F-A115C32584A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D153DF6A-BFDC-4493-BC8F-A115C32584A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D153DF6A-BFDC-4493-BC8F-A115C32584A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4607B487-3B90-4B27-9409-DE9BD582667E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4607B487-3B90-4B27-9409-DE9BD582667E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4607B487-3B90-4B27-9409-DE9BD582667E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4607B487-3B90-4B27-9409-DE9BD582667E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FCF031B-4184-4272-B897-AE20F0E5BF67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FCF031B-4184-4272-B897-AE20F0E5BF67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FCF031B-4184-4272-B897-AE20F0E5BF67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FCF031B-4184-4272-B897-AE20F0E5BF67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56D0341A-0525-4382-9846-7D2A55855B71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56D0341A-0525-4382-9846-7D2A55855B71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56D0341A-0525-4382-9846-7D2A55855B71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56D0341A-0525-4382-9846-7D2A55855B71}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -413,6 +460,17 @@ Global
 		{11031C2B-B818-4BCD-B67E-48752EE2D797} = {3027FE3E-A1C7-4ABA-99FF-789130522DD3}
 		{6A0E8082-AD03-4D27-BC2C-3B8E8BF087DD} = {7A122164-CE61-4660-9E3F-6EC7175DE703}
 		{E5EF5275-78D8-44E4-833F-D209F62DB452} = {6A0E8082-AD03-4D27-BC2C-3B8E8BF087DD}
+		{5F730A18-E938-49AF-B7D2-9D323A14E391} = {5C1A7F86-4998-4E05-BAD8-9BF09CCDC5CA}
+		{A78347B6-8190-4232-9045-7335D25F9059} = {5F730A18-E938-49AF-B7D2-9D323A14E391}
+		{31F39797-DAEC-4CDF-B4BA-BED68A895BC5} = {5C1A7F86-4998-4E05-BAD8-9BF09CCDC5CA}
+		{D153DF6A-BFDC-4493-BC8F-A115C32584A4} = {31F39797-DAEC-4CDF-B4BA-BED68A895BC5}
+		{83904AF0-EAF5-4DFF-B57E-9F7D5D699C9D} = {5C1A7F86-4998-4E05-BAD8-9BF09CCDC5CA}
+		{4607B487-3B90-4B27-9409-DE9BD582667E} = {83904AF0-EAF5-4DFF-B57E-9F7D5D699C9D}
+		{1C8BAC2D-A38A-48F8-BE38-A940431F42CB} = {5C1A7F86-4998-4E05-BAD8-9BF09CCDC5CA}
+		{BC246B78-AB81-4930-AA91-0CF3AA84922C} = {1C8BAC2D-A38A-48F8-BE38-A940431F42CB}
+		{2FCF031B-4184-4272-B897-AE20F0E5BF67} = {BC246B78-AB81-4930-AA91-0CF3AA84922C}
+		{B29EF470-4583-45CC-940C-D5DC706D8C4A} = {1C8BAC2D-A38A-48F8-BE38-A940431F42CB}
+		{56D0341A-0525-4382-9846-7D2A55855B71} = {B29EF470-4583-45CC-940C-D5DC706D8C4A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C38620BA-DB0B-47DC-85DD-BF2BE4217978}
